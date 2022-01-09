@@ -1,0 +1,2 @@
+# oops-mini-project
+Game Name: Brain Teasers; IDE: codeBlocks (simple CPP)  TEAM MEMBERS:  Flancy Fernandes (2014010) Marisa Barreto (2014028) Mariza Rodrigues (2014029) Yadnya Phadke (2014064) ABOUT THE GAME: The game is a series of riddles and brain teasers based on simple mathematics, patterns and common sense. The Game consists of 10 levels with one additional bonus level.  Every level other than the bonus level can be attempted more than once, until you get the answer right.
